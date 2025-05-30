@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @slqp5
+/src/backend/database.py      @slqp5
+/src/backend/routers/auth.py  @slqp5
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @slqp5
